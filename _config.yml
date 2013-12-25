@@ -1,1 +1,2 @@
-　　baseurl: /HomePageJekyll
+baseurl: ./HomePageJekyll
+permalink: /:year/:month/:day/:title 
