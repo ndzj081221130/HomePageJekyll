@@ -1,2 +1,2 @@
-baseurl: ./HomePageJekyll
+baseurl: .
 permalink: /:year/:month/:day/:title 
